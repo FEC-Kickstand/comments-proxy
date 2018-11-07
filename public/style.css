@@ -1,0 +1,46 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#pic {
+	width: 60%;
+}
+
+#navbar {
+	width: 100%;
+	justify-content: row;
+}
+
+#span1 {
+	background-color: #FBFBFA;
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+#span2 {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+#funding-widget {
+}
+
+#Updates {
+	width: 65%;
+}
+
+#Rewards {
+	width: 20%;
+}
+
+#comments {
+	margin-left: 20%;
+	width: 50%;
+}
